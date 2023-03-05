@@ -3,9 +3,9 @@
 <h1 align="center">Hi everyone, I'm Burak Özdemir (@buozdemi) </h1>
 <h3 align="center">A passionate back-end developer from Turkey</h3>
 
-- I’m currently working on **C++ (Object Oriented)**
-- I’m currently learning **C++ (Object Oriented Programming) in Ecole 42 Istanbul**
-- All of my projects are available at [I haven't uploaded the projects I've done for the last 1.5 year yet. Soon on github...] 
+For the last 1.5 years, I have been dealing with very valuable C Programming projects at Ecole 42 Istanbul. I did this to solidify my foundation. I'm currently interested in C++ (Object-Oriented Programming) and Docker. I am confident that my dedication and passion for software development will allow me to contribute to a team and continue to grow as a developer. 
+
+-I haven't uploaded the projects I've done for the last 1.5 year yet. Soon I will start using github actively and upload all my projects....
 
 
 <h3 align="left">Connect with me:</h3>
