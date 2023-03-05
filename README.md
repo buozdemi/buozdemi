@@ -7,11 +7,7 @@
 
 - 🌱 I’m currently learning **C++ (Object Oriented Programming) in Ecole 42 Istanbul**
 
-- 👨‍💻 All of my projects are available at [Soon on github...]
-
-- 💬 Ask me about **C Programming**
-
-- 📫 My LinkedIn profile : 
+- 👨‍💻 All of my projects are available at [I haven't uploaded the projects I've done for the last 1.5 year yet. Soon on github...] 
 
 
 <h3 align="left">Connect with me:</h3>
