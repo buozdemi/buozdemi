@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++ (Object Oriented Programming) in Ecole 42 Istanbul**
 
-- 👨‍💻 All of my projects are available at [Soon on github...](Soon on github...)
+- 👨‍💻 All of my projects are available at [Soon on github...]
 
 - 💬 Ask me about **C Programming**
 
