@@ -1,13 +1,11 @@
 
 
-<h1 align="center">Hi 👋, I'm Burak Özdemir (@buozdemi) </h1>
+<h1 align="center">Hi everyone, I'm Burak Özdemir (@buozdemi) </h1>
 <h3 align="center">A passionate back-end developer from Turkey</h3>
 
-- 🔭 I’m currently working on **C++ (Object Oriented)**
-
-- 🌱 I’m currently learning **C++ (Object Oriented Programming) in Ecole 42 Istanbul**
-
-- 👨‍💻 All of my projects are available at [I haven't uploaded the projects I've done for the last 1.5 year yet. Soon on github...] 
+- I’m currently working on **C++ (Object Oriented)**
+- I’m currently learning **C++ (Object Oriented Programming) in Ecole 42 Istanbul**
+- All of my projects are available at [I haven't uploaded the projects I've done for the last 1.5 year yet. Soon on github...] 
 
 
 <h3 align="left">Connect with me:</h3>
