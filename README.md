@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Burak Özdemir (@buozdemi)</h1>
+<h1 align="center">Hi 👋, I'm Burak Özdemir (@buozdemi) </h1>
 <h3 align="center">A passionate back-end developer from Turkey</h3>
 
 - 🔭 I’m currently working on **C++ (Object Oriented)**
@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **C Programming**
 
-- 📫 My LinkedIn profile : https://www.linkedin.com/in/burak-%C3%B6zdemir-a3a554216/
+- 📫 My LinkedIn profile : 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/burak-%C3%B6zdemir-a3a554216/ </h3>
 <p align="left">
 </p>
 
