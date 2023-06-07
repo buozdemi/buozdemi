@@ -7,11 +7,11 @@ For the last 1.5 years, I have been dealing with very valuable C Programming pro
 
 -I didn't use github actively as I was working with the corporate GIT repository of Ecole 42 during the my working, now I'm adding all my projects to github.
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="white-space: nowrap;">
+<div style="display: flex;">
+  <div style="flex: 1;">
     <h3 style="text-align: left;">Connect with me:</h3>
   </div>
-  <div style="white-space: nowrap;">
+  <div style="flex: 1;">
     <h3 style="text-align: right;">Until Today Some of My Works:</h3>
   </div>
 </div>
