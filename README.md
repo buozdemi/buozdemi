@@ -9,7 +9,7 @@ For the last 1.5 years, I have been dealing with very valuable C Programming pro
 
 <div class='pull-left'> <h3 align="left">Connect with me: </h3>
 <div class='pull-right'>
-  <h3 align="right">Until Today Some of My Works:</h3>
+  <h3 align="right">Until Today Some of My Works:<h3>
 </div>
 
 <p align="left">
