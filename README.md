@@ -7,21 +7,15 @@ For the last 1.5 years, I have been dealing with very valuable C Programming pro
 
 -I didn't use github actively as I was working with the corporate GIT repository of Ecole 42 during the my working, now I'm adding all my projects to github.
 
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <h3 style="text-align: left;">Connect with me:</h3>
-  </div>
-  <div style="flex: 1;">
-    <h3 style="text-align: right;">Until Today Some of My Works:</h3>
-  </div>
+<div style="display: inline-block; width: 50%;">
+  <h3>Connect with me:
 </div>
 
-<div style="display: inline-block; width: 50%;">
-  <h3 style="text-align: left;">Connect with me:</h3>
-</div>
-<div style="display: inline-block; width: 50%;">
-  <h3 style="text-align: right;">Until Today Some of My Works:</h3>
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/buozdemi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/buozdemi/" height="30" width="40" /></a>
+</p>
+
+
 
 <h3 align="left">Skills:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -31,17 +25,6 @@ src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" widt
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=buozdemi&show_icons=true&locale=en&layout=compact" alt="buozdemi" /></p> </div>
 
--[Object-Oriented Programming](https://github.com/buozdemi/42cursus/tree/main/Cpp%20Modules%20(C%2B%2B))
--[Sorting Algorithms and Their Complexities](https://github.com/buozdemi/42cursus/tree/main/push_swap)
--[Synchronous programming, Threads, Mutexes](https://github.com/buozdemi/42cursus/tree/main/philosophers)
--[3D Game Using the Raycasting Technique](https://github.com/buozdemi/42cursus/tree/main/cub3D)
--[2D Game Using the with libraries developed from OpenGL](https://github.com/buozdemi/42cursus/tree/main/so_long)
--[Reverse Polish Notation (Mathematics calculations)](https://github.com/buozdemi/42cursus/tree/main/Cpp%20Modules%20(C%2B%2B)/CPP09)
--[Creating your own C library (Rewrite printf)](https://github.com/buozdemi/42cursus/tree/main/ft_printf)
--[Own Basic Unix Shell Implementation](https://github.com/buozdemi/42cursus/tree/main/minishell)
--IT Operations (SSH ports, firewalls, LVM)
--Virtual Machine & Docker,
-</div>
 <!---
 For now, I will share my Ecole 42 Istanbul project codes with you.
 --->
