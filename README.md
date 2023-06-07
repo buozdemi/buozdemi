@@ -16,9 +16,12 @@ For the last 1.5 years, I have been dealing with very valuable C Programming pro
   </div>
 </div>
 
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/burak-özdemir-a3a554216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/burak-özdemir-a3a554216/" height="30" width="40" /></a>
-</p>
+<div style="display: inline-block; width: 50%;">
+  <h3 style="text-align: left;">Connect with me:</h3>
+</div>
+<div style="display: inline-block; width: 50%;">
+  <h3 style="text-align: right;">Until Today Some of My Works:</h3>
+</div>
 
 <h3 align="left">Skills:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
