@@ -5,7 +5,7 @@
 
 For the last 1.5 years, I have been dealing with very valuable C Programming projects at Ecole 42 Istanbul. I did this to solidify my foundation. I'm currently interested in C++ (Object-Oriented Programming) and Docker. I am confident that my dedication and passion for software development will allow me to contribute to a team and continue to grow as a developer. 
 
--I didn't use github actively as I was working with the corporate GIT repository of Ecole 42 during the my working, now I'm adding all my projects to github.
+-I didn't use github actively because I was working with the corporate GIT repository of Ecole 42 during my work. But I uploaded all my projects to github last month. You can examine it from the 42cursus section.
 
 <div style="display: inline-block; width: 50%;">
   <h3>Connect with me:
