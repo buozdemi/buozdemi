@@ -3,7 +3,7 @@
 <h1 align="center">Hi everyone, I'm Burak Özdemir (@buozdemi) </h1>
 <h3 align="center">A passionate back-end developer from Turkey</h3>
 
-For the last 1.5 years, I have been dealing with very valuable C Programming projects at Ecole 42 Istanbul. I did this to solidify my foundation. I'm currently interested in SWIFT & C++ (Object-Oriented Programming) and Docker. I am confident that my dedication and passion for software development will allow me to contribute to a team and continue to grow as a developer. 
+For the last 2 years, I have been dealing with very valuable C Programming projects at Ecole 42 Istanbul. I did this to solidify my foundation. I'm currently interested in SWIFT & C++ (Object-Oriented Programming). I am confident that my dedication and passion for software development will allow me to contribute to a team and continue to grow as a developer. 
 
 -I didn't use github actively because I was working with the corporate GIT repository of Ecole 42 during my work. But I uploaded all my projects to github last month. You can examine it from the [42cursus](https://github.com/buozdemi/42cursus) section.
 
