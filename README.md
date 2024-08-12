@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi everyone, I'm Burak Özdemir (@buozdemi) </h1>
-<h3 align="center">A passionate back-end developer from Turkey</h3>
+<h3 align="center">A passionate IOS developer from Turkey</h3>
 
 For the last 2 years, I have been dealing with very valuable C Programming projects at Ecole 42 Istanbul. I did this to solidify my foundation. I'm currently interested in SWIFT & C++ (Object-Oriented Programming). I am confident that my dedication and passion for software development will allow me to contribute to a team and continue to grow as a developer. 
 
