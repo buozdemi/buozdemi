@@ -5,76 +5,41 @@
 
 I build systems, not just apps.
 
-I'm a software engineer with a strong foundation in low-level programming, system design, and real-world product development. I enjoy understanding how things work under the hood and turning that knowledge into scalable, user-focused applications.
+Software engineer with a strong foundation in low-level programming, system design, and product development. Focused on building scalable, real-world applications.
 
 ## 🚀 What I Do
 
-- 🔧 Build full-stack and mobile applications (React Native, Firebase, TypeScript)
-- ⚙️ Develop system-level projects (Unix processes, sockets, concurrency, Docker)
-- 🤖 Leverage AI tools (ChatGPT, Claude, Cursor, Gemini) to accelerate development and problem-solving
-- 🧠 Design product ideas and turn them into working MVPs
+- Build full-stack and mobile applications (React Native, Firebase, TypeScript)
+- Develop system-level projects (Unix, sockets, concurrency, Docker)
+- Use AI tools to accelerate development and problem-solving
+- Turn ideas into working products
 
-## 💡 What I'm Working On
+## 🧠 Human-Centered Thinking
 
-- Building and iterating on real-world products
-- Exploring scalable systems and user-driven platforms
-- Continuously improving engineering and product thinking
+Background in human behavior, psychology, and communication.
+
+I approach problems not only technically, but also from a user and strategy perspective — focusing on how people behave, why products work, and how to align systems with real needs.
+
+## 🎯 Strategy
+
+I think in systems, products, and leverage.
+
+- Identify high-impact opportunities
+- Design scalable and monetizable solutions
+- Bridge user psychology with technical execution
 
 ## 🛠 Tech Stack
 
-- Languages: C, C++, TypeScript, JavaScript
-- Mobile: React Native (Expo)
-- Backend: Firebase, Node.js
-- Tools: Docker, Git, Linux
-- Other: AI-assisted development workflows
+C, C++, TypeScript, JavaScript  
+React Native, Firebase, Node.js  
+Docker, Linux, Git
 
-## 🧠 Beyond Code
+## 📌 Projects
 
-My background extends beyond engineering into human behavior, communication, and creative disciplines.
-
-I’ve spent years developing skills in areas such as:
-- Acting & character analysis
-- Psychology and behavioral observation
-- Empathy-driven communication
-- Mediation and conflict resolution
-- Cross-generational communication
-
-This allows me to approach problems not only from a technical perspective, but also from a **human-centered and strategic angle**.
-
-I don’t just build systems — I think about:
-- How users behave, not just what they click
-- Why products succeed or fail in real-world contexts
-- How to align technical solutions with business and user needs
-
-## 🎯 Strategy & Product Thinking
-
-I actively develop and evaluate ideas from both engineering and business perspectives.
-
-- Identifying leverage points in products and systems
-- Designing scalable and monetizable concepts
-- Bridging the gap between user psychology and technical execution
-
-I believe strong products are built at the intersection of **technology, behavior, and strategy**.
-
-## 🧠 Engineering Mindset
-
-I focus on:
-- Understanding systems from first principles
-- Writing clean, maintainable, and scalable code
-- Building products that solve real problems
-- Moving fast, but with solid architecture
-
-## 📌 Notable Projects
-
-- **Minishell** – Custom Unix shell implementation
-- **IRC Server** – Built a real-time chat server in C++
-- **Inception** – Multi-container Docker infrastructure
-- **Startup (ongoing)** – Building and validating a user-driven product
-
-## 📫 Let's Connect
-
-- 💼 Open to opportunities in software engineering & product development
-- 🚀 Always building, always learning
+- Minishell – Custom Unix shell  
+- IRC Server – Real-time chat server (C++)  
+- Inception – Docker-based infrastructure  
+- Startup (ongoing) – Building a scalable, user-driven product
 
 <div style="display: inline-block; width: 50%;">
   <h3>Connect with me:
