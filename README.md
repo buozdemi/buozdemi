@@ -3,8 +3,6 @@
 <h1 align="center">Hi everyone, I'm Burak Özdemir (@buozdemi) </h1>
 <h3 align="center">A passionate IOS developer from Turkey</h3>
 
-# Hi, I'm Burak 👋
-
 I build systems, not just apps.
 
 I'm a software engineer with a strong foundation in low-level programming, system design, and real-world product development. I enjoy understanding how things work under the hood and turning that knowledge into scalable, user-focused applications.
