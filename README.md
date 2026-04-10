@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi everyone, I'm Burak Özdemir (@buozdemi) </h1>
-<h3 align="center">A passionate IOS developer from Turkey</h3>
+<h3 align="center">Building systems, products, and scalable ideas.</h3>
 
 I build systems, not just apps.
 
